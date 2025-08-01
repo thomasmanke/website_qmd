@@ -1,8 +1,0 @@
-name: website-qmd
-title: "Lecture Title"
-description: >
-  A flexible template for building Quarto-based course websites with lecture materials,
-  homework, Docker/Mamba setup, and custom styles.
-author: Thomas Manke
-version: 1.0.0
-
