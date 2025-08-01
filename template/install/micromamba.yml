@@ -1,0 +1,20 @@
+channels:
+  - conda-forge
+dependencies:
+  - quarto
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - jupyterlab
+  - pytorch
+  - torchvision
+  - torchaudio
+  - scikit-learn
+  - seaborn
+
+
+
+
+

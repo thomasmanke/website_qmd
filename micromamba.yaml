@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - quarto
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipykernel
+
+
+
+
+
