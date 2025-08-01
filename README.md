@@ -4,11 +4,10 @@ This repo contains a template for lecture materials prepared with Quarto.
 
 ```
 git clone git@github.com:thomasmanke/website_qmd.git
-m website_qmd
 micromamba create -n <project_name> website_qmd/micromamba.yml -y
 micromamba activate <project_name>
 
-
+# this works only if website_qmd is public
 quarto use template thomasmanke/website_qmd
 ```
 

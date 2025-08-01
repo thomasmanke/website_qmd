@@ -15,10 +15,10 @@ website:
       - text: "Lectures"
         icon: book
         menu: 
-          - text: Data Science with R
-            href: lectures/00_DataScience/DataScience.qmd
-          - text: Data Acquisition
-            href: lectures/01_DataAcquisition/index.qmd
+          - text: "Topic 00"
+            href: lectures/topic_00/index.qmd
+          - text: "Topic 01"
+            href: lectures/topic_01/index.qmd  
       - text: "Homework"
         icon: list-task
         href: homework/index.qmd
