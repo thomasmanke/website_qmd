@@ -14,5 +14,3 @@ about:
       text: Contact
       href: mailto:thomasmanke1@gmail.com
 ---
-
-About this blog

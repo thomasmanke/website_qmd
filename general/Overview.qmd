@@ -1,91 +1,49 @@
 ---
-title: "Data Science with R"
+title: "Lecture Title"
 author: "Thomas Manke"
-date:  "2024-10-11"
+date:  last-updated
 categories:
   - content
-output:
-  html_document:
-    df_print: paged
-    code_folding: show
-    toc: yes
-    toc_depth: 2
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
 ## Description
 
-Modern Data Science and Analytics require a wide range of skills from
-data munging and data exploration to unsupervised analysis and
-statistical modelling. Ultimately, structured reports have to be written
-to communicate results in a reproducible manner. This advanced course is
-designed to equip students with many of these skills using R/Rstudio.
-The course will cover a broad range of statistical techniques, from
-foundational concepts to advanced methodologies, providing practical
-experience through real-world datasets and projects.
-
 ## Objectives
 
-Upon successful completion of this course, students will understand
-common challenges in data analysis and identify modern solutions. They
-will be proficient in applying statistical methods to explore, model,
-interpret, and visualise data.
+Upon successful completion of this course, students will understand ...
+
+They will be proficient in ...
 
 ## Content
 
--   Data Challenges: formats, missing data, software dependencies,
-    versions and reproducibility
--   Data Munging: filter, formatting, transforming, merging
--   Data Exploration: Summaries, Visualization and unsupervised analysis
--   Data Model: fitting/training, predictions and evaluation
--   Data Limits and Limited Data: Causal Thinking and Priors Beliefs
--   Data Reporting: modern solutions and best practices
+-   01
+
+-   02
 
 ## Prerequisites
 
--   Introduction to R/Rstudio (e.g. from [R course \@
-    MPI-IE](https://maxplanck-ie.github.io/Rintro/))
--   Prior experience with tidyverse is beneficial but it will be
-    repeated where necessary (cheatsheets:
-    [dplyr](https://rstudio.github.io/cheatsheets/data-transformation.pdf),
-    [ggplot2](https://rstudio.github.io/cheatsheets/data-visualization.pdf))
--   Basic maths: vector and matrix multiplication (cheatsheet: [Matrix
-    Operations](https://pmt.physicsandmathstutor.com/download/Maths/A-level/Further/Core-Pure/Edexcel/CP1/Cheat-Sheets/Ch.6%20Matrices.pdf))
--   Basic statistical concepts: descriptive statistics, histograms
--   Access to latops and WLAN for active programming during lectures and
-    tutorials (iPad will not suffice)
--   Access to central Rstudio Server. Register for a free plan with
-    [posit.cloud](https://posit.cloud/plans/free). Only registered users
-    will have access to course materials and compute resources.
+-   01
+-   02
 
 ## Format
 
-This course will be *interactive* (need laptop) and *collaborative*
-(work in small teams). It will comprise the following blocks:
+This course will be *interactive* (need laptop) and *collaborative* (work in small teams). It will comprise the following blocks:
 
--   *Lecture (1.5h):* will provide an introduction and overview of Data
-    Science concepts and R functionality
+-   *Lectures:* will provide an introduction and overview of Data Science concepts and R functionality
 
--   *Homework (ca. 1-2h)*: lecture-based tasks, to be solved and
-    submitted individually.
+-   *Homeworks/Projects*: lecture-based tasks, to be solved and submitted individually.
 
--   *Tutorial (1.5h)*: During the tutorials the teams will present their
-    solutions and lecture material will be reviewed as necessary.
+-   *Tutorials*: During the tutorials the teams will present their solutions and lecture material will be reviewed as necessary.
 
--   *Final Projects:* Up to 4 Data Science projects will be offered
-    during the course. Teams will select a task and work together
-    towards a reproducible solution in form of an executable markdown
-    document. The solution will be presented and evaluated at the end of
-    this course (\~30 min per team).
+-   Exams:
 
 ## Times and Locations
 
-| Format    | Times       | Location | Instructor |
-|-----------|-------------|----------|------------|
-| Lectures  | Tue 10 - 12 | UCF      | T. Manke   |
-| Tutorials | Thu 14 - 16 | UCF      | T. Manke   |
+| Format    | Times | Location | Instructor |
+|-----------|-------|----------|------------|
+| Lectures  |       |          | T. Manke   |
+| Tutorials |       |          | T. Manke   |
+| Exam      |       |          |            |
 
 ## Evaluation
 
@@ -93,11 +51,9 @@ This course will be *interactive* (need laptop) and *collaborative*
 
 -   Tutorials (10 P): Homework Assignments & Presentations
 
--   Data Analysis Project (20 P): Presentation and submission of a
-    reproducible data analysis project in an executable markdown format.
+-   Data Analysis Project (20 P): Presentation and submission of a reproducible data analysis project in an executable markdown format.
 
 ## Materials and References
 
--   [R for Data Science (Hadley Wickham)](https://r4ds.had.co.nz)
--   [Software
-    Carpentry](https://swcarpentry.github.io/r-novice-gapminder/)
+-   Ref1: Link1
+-   Ref2: Link2

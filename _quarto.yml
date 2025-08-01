@@ -28,7 +28,6 @@ website:
 
 
     right:
-      - general/about.qmd
       - icon: github
         href: https://github.com/thomasmanke/
 
@@ -55,7 +54,7 @@ format:
     css: styles.css
     code-link: false
     code-fold: show
-#    code-tools: true
+    code-tools: true
     highlight-style: github
 
 execute:
