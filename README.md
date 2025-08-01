@@ -5,6 +5,7 @@ This repo contains a template for lecture materials prepared with Quarto.
 ```
 # clone as usual
 git clone git@github.com:thomasmanke/website_qmd.git
+
 ```
 
 ## Option2 (if quarto is already installed)
@@ -22,7 +23,8 @@ quarto preview
 ## Setup
 In any case you might want to create a minimal environment to include python, quarto and a few very common packages.
 
-Notice that this is not the same environment as used by most lectures that have their own environment files. 
+A simple micromamba.yml environment file is provided in this repo.
+But notice that this is not necessarily the same environment that will be used in the lectures as each can have their own environment files. 
 
 ```
 micromamba create -n <project_name> website_qmd/micromamba.yml -y
